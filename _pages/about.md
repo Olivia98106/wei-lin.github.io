@@ -23,14 +23,12 @@ Lin, W. (2021) More Contributors, Shorter Continuance? The Paradox of Entertainm
 
 Publication and Granting
 ======
-Granting (¥50,000) for the Project of Public Understanding of Science	
-
-China Research Institute for Science Popularization  2020.07– 2022.05
+Granting (¥50,000) for the Project of Public Understanding of Science, China Research Institute for Science Popularization  2020.07– 2022.05
 
 Chen, H.M., Jin, S.C., Lin, W., et al. (2021) Quantitative Analysis on the Communication of COVID-19 Related Social Media Rumors, Journal of Computer Research and Development,2021,58(7):1366-1384.
 
 Work in Progress
 ======
-Tracing Creativity by Conversation Turns and Flows
+Tracing Creativity by Conversational Turns and Flows
 
 Sunset of Mass Media Impacts for the Youth: Testing Cultivation Theory over Five Decades
