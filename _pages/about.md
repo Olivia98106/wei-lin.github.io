@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Homepage_WeiLIN"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Wei, a PhD student in the Web Mining Lab at City University of Hong Kong. I earned my MA from the School of Journalism and Communication at Tsinghua University. I majored in Journalism and minored in Computer Science during my undergraduate studies at East China Normal University (ECNU) and Shanghai Jiao Tong University (SJTU). My research interests include conversation analysis and time in social science research. Before My PhD journey, I was a product manager of Brand Advertising in TikTok and a data analyst in Weixin, Tencent. I enjoy hiking, reading, and weight training. I host [an independent podcast about AI and creativity](https://podcasts.apple.com/cn/podcast/ai%E5%88%9B%E6%84%8F%E8%A7%82%E5%AF%9F%E5%AE%A4/id1733591392?l=en-GB).
+I am Wei, a PhD student in the Web Mining Lab at City University of Hong Kong. I earned my MA from the School of Journalism and Communication at Tsinghua University. I majored in Journalism and minored in Computer Science during my undergraduate studies at East China Normal University (ECNU) and Shanghai Jiao Tong University (SJTU). My research interests include conversation analysis and time in social science research. Before My PhD journey, I was a product manager of Brand Advertising at TikTok and data analyst at Weixin, Tencent. I enjoy hiking, reading, and weight training. I host [an independent podcast about AI and creativity](https://podcasts.apple.com/cn/podcast/ai%E5%88%9B%E6%84%8F%E8%A7%82%E5%AF%9F%E5%AE%A4/id1733591392?l=en-GB).
 
 My research employs computational methods and digital ethnography to develop the Co-orientational Adaptation Model (CAM), a time-relevant relational model in the post-adoption stage to examine GenAI adoption and innovation. I also have a long-term exploration of online expression and creation behavior, ranging from User-Generated Content (UGC) to AI-Generated Content (AIGC).
 
@@ -31,4 +31,4 @@ Work in Progress
 ======
 Tracing Creativity by Conversational Turns and Flows
 
-Sunset of Mass Media Impacts for the Youth: Testing Cultivation Theory over Five Decades
+Sunset of Mass Media Impacts on the Youth: Testing Cultivation Theory over Five Decades
